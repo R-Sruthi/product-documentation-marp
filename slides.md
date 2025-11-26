@@ -37,7 +37,7 @@ Created by: [24f1002750@ds.study.iitm.ac.in](mailto:24f1002750@ds.study.iitm.ac.
 
 ---
 
-<!-- _backgroundImage: "url(https://picsum.photos/id/1/1920/1080)" -->
+<!-- _backgroundImage: "url(https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEEbXmn46f_4pp666D60)" -->
 <!-- _color: white -->
 
 # Visualizing Success
